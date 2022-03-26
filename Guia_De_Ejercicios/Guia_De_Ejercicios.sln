@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_1", "Ejercicio_1\Ejercicio_1.csproj", "{0261925F-1ABE-4001-A236-AC42561F815C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio1_MaximoMinimoyPromedio", "Ejercicio_1\Ejercicio1_MaximoMinimoyPromedio.csproj", "{0261925F-1ABE-4001-A236-AC42561F815C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ejercicios_Clase1", "Ejercicios_Clase1", "{DBB18D4E-CE63-47FE-B78C-4E2C19989336}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_2", "Ejercicio_2\Ejercicio_2.csproj", "{68D5C140-9B08-4B40-BAE2-380988BE9C14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio2_ErrorAlCubo", "Ejercicio_2\Ejercicio2_ErrorAlCubo.csproj", "{68D5C140-9B08-4B40-BAE2-380988BE9C14}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_3", "Ejercicio_3\Ejercicio_3.csproj", "{25A65CD7-0D85-4AB5-9F49-6B8B1F682DBD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio3_LosPrimos", "Ejercicio_3\Ejercicio3_LosPrimos.csproj", "{25A65CD7-0D85-4AB5-9F49-6B8B1F682DBD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio_4", "Ejercicio_4\Ejercicio_4.csproj", "{8BF49588-372F-413C-83E6-45ADD8E7C4B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio4_UnNumeroPerfecto", "Ejercicio_4\Ejercicio4_UnNumeroPerfecto.csproj", "{8BF49588-372F-413C-83E6-45ADD8E7C4B6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ejercicios_Clase2", "Ejercicios_Clase2", "{3F96DE71-97B4-443E-88AF-69E9A11AD037}"
 EndProject
