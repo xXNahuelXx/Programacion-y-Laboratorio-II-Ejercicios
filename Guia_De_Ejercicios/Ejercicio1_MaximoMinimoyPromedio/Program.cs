@@ -1,12 +1,7 @@
 ﻿using System;
 
-namespace Ejercicio_1
+namespace Ejercicio1_MaximoMinimoyPromedio
 {
-    /// <summary>
-    /// CONSIGNA
-    /// Ingresar 5 números por consola, guardándolos en una variable escalar. 
-    /// Luego calcular y mostrar: el valor máximo, el valor mínimo y el promedio.
-    /// </summary>
     internal class Program
     {
         static void Main(string[] args)
@@ -22,7 +17,7 @@ namespace Ejercicio_1
                 Console.Write("Ingrese un numero: ");
                 int.TryParse(Console.ReadLine(), out numero);
 
-                if (numero>maximo || i==0)
+                if (numero > maximo || i == 0)
                 {
                     maximo = numero;
                 }
