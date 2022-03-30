@@ -51,6 +51,11 @@ namespace EntidadesClase3
             return  -1;
         }
 
+        public string GetNombre()
+        {
+            return this.nombre;
+        }
+
         public string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
@@ -62,7 +67,7 @@ namespace EntidadesClase3
             sb.AppendLine($"Nota Segundo Parcial: {this.notaSegundoParcial}");
             sb.AppendLine($"Promedio: {CalcularPromedio()}");
             notaFinal = CalcularNotaFinal();
-            if(notaFinal != -1)
+            if (notaFinal != -1)
             {
                 sb.AppendLine($"Nota Final: {notaFinal}");
             }
