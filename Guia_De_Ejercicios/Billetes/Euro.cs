@@ -7,7 +7,7 @@
 
         static Euro()
         {
-            Euro.cotzRespectoDolar = 1.12F;
+            Euro.cotzRespectoDolar = 1.09F;
         }
 
         public Euro(double cantidad)
@@ -19,6 +19,11 @@
         {
             this.cantidad = cantidad;
             Euro.cotzRespectoDolar = cotizacion;
+        }
+
+        public static void SetCotizacion(double valor)
+        {
+            Euro.cotzRespectoDolar = valor;
         }
 
         public double GetCantidad()

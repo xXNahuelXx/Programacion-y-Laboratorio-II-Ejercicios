@@ -13,7 +13,7 @@ namespace Billetes
 
         static Peso()
         {
-            Peso.cotzRespectoDolar = 200;
+            Peso.cotzRespectoDolar = 196;
         }
 
         public Peso(double cantidad)
@@ -25,6 +25,11 @@ namespace Billetes
         {
             this.cantidad = cantidad;
             Peso.cotzRespectoDolar = cotizacion;
+        }
+
+        public static void SetCotizacion(double valor)
+        {
+            Peso.cotzRespectoDolar = valor;
         }
 
         public double GetCantidad()
