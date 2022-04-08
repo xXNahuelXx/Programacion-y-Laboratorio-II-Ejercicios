@@ -75,7 +75,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio1_NumerosLocos", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio3_AContarPalabras", "Ejercicio3_AContarPalabras\Ejercicio3_AContarPalabras.csproj", "{7C0F613D-A593-40C7-BF70-172CF401848E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio3_CotizadorDesktop", "Ejercicio3_CotizadorDesktop\Ejercicio3_CotizadorDesktop.csproj", "{924F5A54-6956-4E43-95AC-D3D0BD3413B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio3_CotizadorDesktop", "Ejercicio3_CotizadorDesktop\Ejercicio3_CotizadorDesktop.csproj", "{924F5A54-6956-4E43-95AC-D3D0BD3413B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio4_Vulcano", "Ejercicio4_Vulcano\Ejercicio4_Vulcano.csproj", "{250441C7-6801-4DB0-97F8-6631CFD90251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio5_DenleUnaUIaEseConversorBinario", "Ejercicio5_DenleUnaUIaEseConversorBinario\Ejercicio5_DenleUnaUIaEseConversorBinario.csproj", "{84400BBD-E016-4FD5-8C39-749783116277}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +211,14 @@ Global
 		{924F5A54-6956-4E43-95AC-D3D0BD3413B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{924F5A54-6956-4E43-95AC-D3D0BD3413B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{924F5A54-6956-4E43-95AC-D3D0BD3413B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{250441C7-6801-4DB0-97F8-6631CFD90251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{250441C7-6801-4DB0-97F8-6631CFD90251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{250441C7-6801-4DB0-97F8-6631CFD90251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{250441C7-6801-4DB0-97F8-6631CFD90251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84400BBD-E016-4FD5-8C39-749783116277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84400BBD-E016-4FD5-8C39-749783116277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84400BBD-E016-4FD5-8C39-749783116277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84400BBD-E016-4FD5-8C39-749783116277}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -243,6 +255,8 @@ Global
 		{19CED7AA-C42D-4CE0-A615-6890192AA81E} = {DECFC3CB-8868-4211-9FC0-4ABBE5A37A8C}
 		{7C0F613D-A593-40C7-BF70-172CF401848E} = {DECFC3CB-8868-4211-9FC0-4ABBE5A37A8C}
 		{924F5A54-6956-4E43-95AC-D3D0BD3413B3} = {FE846CD8-3D68-441A-AD3B-6DFB9D1FC2D7}
+		{250441C7-6801-4DB0-97F8-6631CFD90251} = {FE846CD8-3D68-441A-AD3B-6DFB9D1FC2D7}
+		{84400BBD-E016-4FD5-8C39-749783116277} = {FE846CD8-3D68-441A-AD3B-6DFB9D1FC2D7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {44228D61-F976-4A42-88B2-CC920119BC36}
