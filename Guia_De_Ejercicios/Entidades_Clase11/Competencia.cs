@@ -62,6 +62,14 @@ namespace Entidades_Clase11
             }
         }
 
+        public List<VehiculoDeCarrera> Vehiculos
+        {
+            get
+            {
+                return this.competidores;
+            }
+        }
+
         public VehiculoDeCarrera this[int i]
         {
             get
